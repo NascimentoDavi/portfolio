@@ -21,7 +21,7 @@ const Home = () => {
 
                     <div className="mx-auto md:ms-0 pb-5 md:ps-20 ps-0">
                         <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-xl bg-gradient-to-r from-cyan-500 to-blue-500">
-                            Portfolio
+                            Repository
                             <span className="group-hover:ms-3 duration-200 ps-1">
                                 <RxDoubleArrowRight size={15}/>
                             </span>
