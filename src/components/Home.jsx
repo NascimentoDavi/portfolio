@@ -5,13 +5,13 @@ import { RxDoubleArrowRight } from 'react-icons/rx'
 const Home = () => {
     return (
         
-        <div name="home" className="h-screen w-full bg-gradient-to-b from-black to-gray-800 text-white via-black px-4">
+        <div name="home" className="w-full bg-gradient-to-b from-black to-gray-800 text-white via-black px-4">
 
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-3 md:flex-row">
 
                 <div className="flex flex-col justify-center h-full text-center md:text-start md:ms-16">
 
-                    <h2 className="text-4xl sm:text-7xl font-bold text-white md:ps-20 ps-0 pt-5 md:pt-0">
+                    <h2 className="text-4xl sm:text-7xl font-bold text-white md:ps-20 ps-0 sm:pt-10 md:pt-0">
                         I'm a Front-end Developer
                     </h2>
 
